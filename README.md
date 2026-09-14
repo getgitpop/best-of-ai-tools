@@ -6,9 +6,9 @@
 
 | | Last updated | Tracking window |
 |---|---|---|
-| Rank source | `2026-09-07` | 7-day deltas |
+| Rank source | `2026-09-14` | 7-day deltas |
 
-## Top AI & Machine Learning Projects (2026-09-07)
+## Top AI & Machine Learning Projects (2026-09-14)
 
 | # | Project | Language | Stars | 7d Growth | PopScore | Maintenance |
 |---|---------|----------|------:|----------:|---------:|-------------|
@@ -18,20 +18,20 @@
 | 4 | [llama.cpp](https://gitpop.com/repo/ggerganov/llama.cpp) — LLM inference in C/C++ | C++ | 71.8k | — | 0/100 | slow |
 | 5 | [whisper.cpp](https://gitpop.com/repo/ggerganov/whisper.cpp) — CPU-fast Whisper inference in plain C/C++. | C++ | 36.2k | — | 0/100 | slow |
 | 6 | [langchain](https://gitpop.com/repo/langchain-ai/langchain) — Build context-aware reasoning applications with LLMs. | Python | 95.4k | — | 0/100 | slow |
-| 7 | [Langchain-Chatchat](https://gitpop.com/repo/chatchat-space/Langchain-Chatchat) — Local knowledge-base QA based on Langchain and ChatGLM. | Python | 31.4k | — | 0/100 | slow |
-| 8 | [openai-python](https://gitpop.com/repo/openai/openai-python) — Official Python library for the OpenAI API. | Python | 22.4k | — | 0/100 | slow |
-| 9 | [qdrant](https://gitpop.com/repo/qdrant/qdrant) — High-performance, massive-scale vector database. | Rust | 21.4k | — | 0/100 | slow |
-| 10 | [llama_index](https://gitpop.com/repo/run-llama/llama_index) — Data framework for LLM applications — connect custom data to LLMs. | Python | 38.5k | — | 0/100 | slow |
-| 11 | [docling](https://gitpop.com/repo/docling-project/docling) — Get your documents ready for gen AI | Python | 65.0k | — | 0/100 | healthy |
-| 12 | [Retrieval-based-Voice-Conversion-WebUI](https://gitpop.com/repo/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Easily train a good VC model with voice data <= 10 mins! | Python | 37.5k | — | 0/100 | healthy |
-| 13 | [milvus](https://gitpop.com/repo/milvus-io/milvus) — A cloud-native vector database, storage for next-gen AI applications. | Go | 30.4k | — | 0/100 | slow |
-| 14 | [scikit-learn](https://gitpop.com/repo/scikit-learn/scikit-learn) — Machine learning in Python. | Python | 60.4k | — | 0/100 | slow |
-| 15 | [gradio](https://gitpop.com/repo/gradio-app/gradio) — Build and share delightful machine learning apps, all in Python. | Python | 38.4k | — | 0/100 | slow |
-| 16 | [ray](https://gitpop.com/repo/ray-project/ray) — Ray is a unified framework for scaling AI and Python applications. | Python | 35.4k | — | 0/100 | slow |
-| 17 | [mlflow](https://gitpop.com/repo/mlflow/mlflow) — Open source platform for the machine learning lifecycle. | Python | 20.4k | — | 0/100 | slow |
-| 18 | [spacy](https://gitpop.com/repo/explosion/spacy) — Industrial-strength NLP in Python. | Python | 30.4k | — | 0/100 | slow |
-| 19 | [LibreChat](https://gitpop.com/repo/danny-avila/librechat) — Enhanced ChatGPT clone with multi-provider support, agents, and plugins. | TypeScript | 24.5k | — | 0/100 | slow |
-| 20 | [ComfyUI](https://gitpop.com/repo/comfyanonymous/ComfyUI) — A powerful and modular stable diffusion GUI and backend. | Python | 56.3k | — | 0/100 | slow |
+| 7 | [openai-python](https://gitpop.com/repo/openai/openai-python) — Official Python library for the OpenAI API. | Python | 22.4k | — | 0/100 | slow |
+| 8 | [qdrant](https://gitpop.com/repo/qdrant/qdrant) — High-performance, massive-scale vector database. | Rust | 21.4k | — | 0/100 | slow |
+| 9 | [llama_index](https://gitpop.com/repo/run-llama/llama_index) — Data framework for LLM applications — connect custom data to LLMs. | Python | 38.5k | — | 0/100 | slow |
+| 10 | [docling](https://gitpop.com/repo/docling-project/docling) — Get your documents ready for gen AI | Python | 65.0k | — | 0/100 | healthy |
+| 11 | [Retrieval-based-Voice-Conversion-WebUI](https://gitpop.com/repo/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) — Easily train a good VC model with voice data <= 10 mins! | Python | 37.5k | — | 0/100 | healthy |
+| 12 | [milvus](https://gitpop.com/repo/milvus-io/milvus) — A cloud-native vector database, storage for next-gen AI applications. | Go | 30.4k | — | 0/100 | slow |
+| 13 | [scikit-learn](https://gitpop.com/repo/scikit-learn/scikit-learn) — Machine learning in Python. | Python | 60.4k | — | 0/100 | slow |
+| 14 | [gradio](https://gitpop.com/repo/gradio-app/gradio) — Build and share delightful machine learning apps, all in Python. | Python | 38.4k | — | 0/100 | slow |
+| 15 | [ray](https://gitpop.com/repo/ray-project/ray) — Ray is a unified framework for scaling AI and Python applications. | Python | 35.4k | — | 0/100 | slow |
+| 16 | [mlflow](https://gitpop.com/repo/mlflow/mlflow) — Open source platform for the machine learning lifecycle. | Python | 20.4k | — | 0/100 | slow |
+| 17 | [spacy](https://gitpop.com/repo/explosion/spacy) — Industrial-strength NLP in Python. | Python | 30.4k | — | 0/100 | slow |
+| 18 | [LibreChat](https://gitpop.com/repo/danny-avila/librechat) — Enhanced ChatGPT clone with multi-provider support, agents, and plugins. | TypeScript | 24.5k | — | 0/100 | slow |
+| 19 | [ComfyUI](https://gitpop.com/repo/comfyanonymous/ComfyUI) — A powerful and modular stable diffusion GUI and backend. | Python | 56.3k | — | 0/100 | slow |
+| 20 | [Fooocus](https://gitpop.com/repo/lllyasviel/Fooocus) — Focus on prompting and generating — minimal SD UI. | Python | 42.5k | — | 0/100 | slow |
 
 ## Why not just sort by stars?
 
@@ -52,4 +52,4 @@ Star counts measure accumulated attention; **PopScore measures current momentum*
 
 ---
 
-<p align="center"><sub>Data by <a href="https://gitpop.com">GitPop</a> — real velocity, not just stars. Generated 2026-09-07. License: CC-BY-4.0 (attribute &amp; link back).</sub></p>
+<p align="center"><sub>Data by <a href="https://gitpop.com">GitPop</a> — real velocity, not just stars. Generated 2026-09-14. License: CC-BY-4.0 (attribute &amp; link back).</sub></p>
