@@ -6,9 +6,9 @@
 
 | | Last updated | Tracking window |
 |---|---|---|
-| Rank source | `2026-10-05` | 7-day deltas |
+| Rank source | `2026-10-12` | 7-day deltas |
 
-## Top AI & Machine Learning Projects (2026-10-05)
+## Top AI & Machine Learning Projects (2026-10-12)
 
 | # | Project | Language | Stars | 7d Growth | PopScore | Maintenance |
 |---|---------|----------|------:|----------:|---------:|-------------|
@@ -52,4 +52,4 @@ Star counts measure accumulated attention; **PopScore measures current momentum*
 
 ---
 
-<p align="center"><sub>Data by <a href="https://gitpop.com">GitPop</a> — real velocity, not just stars. Generated 2026-10-05. License: CC-BY-4.0 (attribute &amp; link back).</sub></p>
+<p align="center"><sub>Data by <a href="https://gitpop.com">GitPop</a> — real velocity, not just stars. Generated 2026-10-12. License: CC-BY-4.0 (attribute &amp; link back).</sub></p>
